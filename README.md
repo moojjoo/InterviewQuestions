@@ -13,3 +13,6 @@ function empty(){
 }
 empty();
 ```
+Q. What is a JavaScript closure and how it is used?
+
+A. (See code) [https://github.com/moojjoo/InterviewQuestions/blob/master/closure.js]
