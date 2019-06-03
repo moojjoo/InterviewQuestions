@@ -3,7 +3,7 @@
 Q. How to empty an Array?
 
 A.  
-    ```Javascript
+    ```JavaScript
     var list = [1, 2, 3];
     function empty(){
         //empty your Array
