@@ -11,4 +11,5 @@ A.
         //or
         list.length = 0;
     }
-    empty();```
+    empty();
+    ```
