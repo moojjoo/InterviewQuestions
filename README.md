@@ -1,7 +1,5 @@
 # Lessons Learned Interviewing #
 
-### [OOP, .NET, MVC, ASP.NET, JavaScript, SQL and many more interview questions](https://github.com/moojjoo/InterviewQuestions/blob/master/Developer%20Interview%20Questions%20and%20Answers.pdf)
-
 Q. How to empty an Array?
 
 A.  
