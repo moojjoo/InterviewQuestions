@@ -1,5 +1,7 @@
 # Lessons Learned Interviewing #
 
+### [OOP, .NET, MVC, ASP.NET, JavaScript, SQL and many more interview questions](https://github.com/moojjoo/InterviewQuestions/blob/master/Developer%20Interview%20Questions%20and%20Answers.pdf)
+
 Q. How to empty an Array?
 
 A.  
@@ -22,4 +24,8 @@ A. (See code) [https://github.com/moojjoo/InterviewQuestions/blob/master/closure
 
 Q. What Version C# as of 6/4/2019 do you use?
 
-A.  The most recent version is C# 7.3, which was released in 2018 alongside Visual Studio 2017 version 15.7.2
+A. The most recent version is C# 7.3, which was released in 2018 alongside Visual Studio 2017 version 15.7.2
+
+-----------------------------------------------------------------------------------
+
+
