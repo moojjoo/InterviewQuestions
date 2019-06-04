@@ -1,6 +1,6 @@
 # Lessons Learned Interviewing #
 
-Q. How to empty an Array?
+Q. How to empty an Array using JavaScript?
 
 A.  
 ```JavaScript
